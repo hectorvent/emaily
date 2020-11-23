@@ -2,7 +2,7 @@
 
 > Corrently under development.
 
-It will be a email dispatcher microservice, that will handle email tamplates, attachments.
+It will be an email dispatcher microservice, that will handle email tamplates, attachments, and filters.
 
 Ways to send an email :
 
@@ -23,4 +23,5 @@ Ways to send an email :
 - S3
 - HTTP URL (Public, Basic Auth, Bearer)
 - Base64
+- Local File System
 
