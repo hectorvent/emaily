@@ -2,7 +2,7 @@
 
 > Corrently under development.
 
-It will be an email dispatcher microservice, that will handle email tamplates, attachments, and filters.
+It will be an email dispatcher microservice, this will handle email tamplates, manage attachments, and filters.
 
 Ways to send an email :
 
@@ -16,6 +16,7 @@ Ways to send an email :
 
  - Apache FreeMarker
  - Jade
+ - Velocity
 
 
 ### :file_folder: Attachments providers:
