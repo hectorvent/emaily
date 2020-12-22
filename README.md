@@ -25,4 +25,5 @@ Ways to send an email :
 - HTTP URL (Public, Basic Auth, Bearer)
 - Base64
 - Local File System
+- FTP
 
