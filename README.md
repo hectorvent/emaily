@@ -1,8 +1,8 @@
 # Emaily ✉️
 
-> Corrently under development.
+>  Under development.
 
-It will be an email dispatcher microservice, this will handle email tamplates, manage attachments, and filters.
+It is an email dispatcher microservice, that handles email tamplates, manage attachments, and filters.
 
 Ways to send an email :
 
