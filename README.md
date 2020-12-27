@@ -16,6 +16,7 @@ Ways to send an email :
 
  - Apache FreeMarker
  - Jade
+ - Handlebars
  - Velocity
 
 
